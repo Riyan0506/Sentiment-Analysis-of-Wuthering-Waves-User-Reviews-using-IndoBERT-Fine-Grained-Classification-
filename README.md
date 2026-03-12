@@ -221,10 +221,4 @@ Pendekatan ini dapat membantu:
 🎓 Universitas Gunadarma
 📚 Information Systems Student
 
----
 
-💡 Jika kamu mau, aku juga bisa bantu buat **3 bagian penting agar repo kamu terlihat seperti portfolio Data Scientist serius**, yaitu:
-
-* ⭐ **README dengan tampilan seperti repository AI/NLP profesional**
-* 📊 **diagram workflow penelitian (cocok untuk skripsi / publikasi)**
-* 🎮 **GitHub README dengan banner gambar Wuthering Waves + AI theme** (biar terlihat keren ketika dibuka recruiter).

@@ -127,22 +127,6 @@ Visualisasi hasil analisis ditampilkan dalam bentuk:
 
 ---
 
-# 📈 Example Visualization
-
-Visualisasi distribusi sentimen pengguna terhadap game **Wuthering Waves**.
-
-```
-(Upload grafik atau confusion matrix dari notebook di sini)
-```
-
-Contoh cara menampilkan gambar di README:
-
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
-
----
-
 # 💡 Skills Demonstrated
 
 Beberapa keterampilan yang digunakan dalam proyek ini:
@@ -198,9 +182,9 @@ Wuwa_PIfix.ipynb
 
 Notebook dapat dijalankan menggunakan:
 
-* **Jupyter Notebook**
-* **Google Colab**
 
+* **Google Colab**
+[Klik di sini](https://colab.research.google.com/drive/1sMZ3IZQdcFKJxn29xhUUTrFnnkY4c8mj#scrollTo=cyzzouJKDkT1) 
 ---
 
 # 📌 Conclusion
